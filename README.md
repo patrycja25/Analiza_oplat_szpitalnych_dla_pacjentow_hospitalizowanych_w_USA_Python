@@ -35,11 +35,11 @@ Average Medicare Payments (Średnia kwota pokryta przez Medicare)
 
 W procesie przygotowania danych do analizy wykonano następujące kroki:
 
-### Czyszczenie danych: 
+### - Czyszczenie danych: 
 
 Usunięto znaki walutowe ($) z kolumn finansowych i przekonwertowano je na typy numeryczne (float), aby umożliwić operacje matematyczne.
 
-### Utworzono nowe zmienne w celu zbadania struktury płatności:
+### - Utworzono nowe zmienne w celu zbadania struktury płatności:
 
 Medicare Payments as Percentage: Procent kosztów pokrywanych przez Medicare.
 
